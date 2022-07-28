@@ -1,0 +1,41 @@
+.defaultStyleAnimate{
+    display: none;
+}
+.styleTextRight{
+    position: relative;
+   right: -30em;
+    -webkit-animation: slide-in 1s forwards;
+    animation: slide-in 1s forwards;
+}
+.styleTextRightSkill{
+    position: relative;
+    left: -30em;
+    -webkit-animation: slide-in-skill 1s forwards;
+    animation: slide-in-skill 1s forwards;
+}
+.styleImgLeft{
+    -webkit-animation: go-back 1s;
+    animation: go-back 1s;
+}
+@keyframes go-back {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+@-webkit-keyframes slide-in {
+    100% { right: 0 }
+}
+@keyframes slide-in {
+100% { right: 0 }
+}
+  
+@-webkit-keyframes slide-in-skill {
+    100% { left: 0 }
+}
+@keyframes slide-in-skill {
+100% { left: 0 }
+}
