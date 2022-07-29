@@ -51,7 +51,7 @@ export function Skills(){
                     <SkillsImgComponent className={valueStyle} skillText='CSS3' urlImg={Css}/>
                 
                 
-                  <SkillsImgComponent className={valueStyle}killText='JavaScript' urlImg={JS}/>
+                  <SkillsImgComponent className={valueStyle} skillText='JavaScript' urlImg={JS}/>
                 
                 
                     <SkillsImgComponent className={valueStyle} skillText='React Js' urlImg={ReactJs}/>

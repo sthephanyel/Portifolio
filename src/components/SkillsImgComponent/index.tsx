@@ -8,8 +8,9 @@ import {
 type Props ={
     urlImg: string;
     skillText: string;
+    className: string;
 }
-export function SkillsImgComponent({skillText, urlImg,...rest}:Props){
+export function SkillsImgComponent({skillText, urlImg, ...rest}:Props){
     return(
         <Container {...rest}>
             <IMG src={urlImg}></IMG>
