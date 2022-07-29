@@ -30,5 +30,7 @@ A versão mobile do projeto também foi criada, mas por um bug acabou sendo excl
 ![image](https://user-images.githubusercontent.com/62970346/181658514-6dae93d7-5029-430c-a032-dc506d5d29e1.png)
 
 ## Imagens do Projeto (Mobile):<br/>
-![image](https://user-images.githubusercontent.com/62970346/181658571-3870f15c-d413-45f0-9c07-a2cc52294754.png)
-![image](https://user-images.githubusercontent.com/62970346/181658602-9898ac6d-4c19-46eb-89d2-b575a63c22d3.png)
+![image](https://user-images.githubusercontent.com/62970346/181658728-a8ad5d56-e014-40ae-82e5-1c02ce372f1d.png)
+![image](https://user-images.githubusercontent.com/62970346/181658702-4181e4f4-c139-4aab-bbba-dc6aae3814b4.png)
+![image](https://user-images.githubusercontent.com/62970346/181658760-dc50539d-63fe-47f8-b97c-4d3cba68613e.png)
+
