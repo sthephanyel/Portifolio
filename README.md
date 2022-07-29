@@ -22,6 +22,8 @@ A versão mobile do projeto também foi criada, mas por um bug acabou sendo excl
 <br/>
 <a href="https://www.figma.com/community/file/1134637571456376160" target="_blank">Figma</a>
 <br/>
+O projeto foi enviado para a plataforma Vercel. <br/>
+<a href="https://portifolio-project.vercel.app/">Link Projeto</a>
 
 ## Algumas Imagens do Projeto (Web):<br/>
 ![image](https://user-images.githubusercontent.com/62970346/181658396-b6ee1d9f-ef89-4ff0-8028-3dd400ebccce.png)
