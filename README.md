@@ -3,7 +3,6 @@ Esse projeto foi criado para apresentar algumas de minhas caracteristicas como p
 Ferramentas utilizadas para criação:<br/>
 
 ## Tecnologias utilizadas:<br/>
-<br/>
 >React js <br/>
 >Vite Js <br/>
 >Typescript <br/>
