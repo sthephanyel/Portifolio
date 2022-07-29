@@ -8,7 +8,7 @@ Ferramentas utilizadas para criação:<br/>
 >Typescript <br/>
 >Styled-Component <br/>
 >Bootstrap <br/>
-<br/>
+
 ## Ferramentas e sites utilizados:<br/>
 >Phopor Icon<br/>
 >Wallpaper Flare <br/>
