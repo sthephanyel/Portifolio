@@ -4,7 +4,7 @@ import {
     IMG,
     Text
 } from "./styles";
-
+ 
 type Props ={
     urlImg: string;
     skillText: string;
