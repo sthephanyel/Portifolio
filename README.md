@@ -6,10 +6,10 @@ Ferramentas utilizadas para criação:<br/>
 >React js <br/>
 >Vite Js <br/>
 >Typescript <br/>
->Styled-Component <br/> 
->Phopor <br/>
->GraphQL <br/>
->Apollo <br/>
+>Styled-Component <br/>
+>## Ferramentas e sites utilizados:<br/>
+>Phopor Icon<br/>
+>Wallpaper Flare <br/>
 
 <br/>
 <br/>
