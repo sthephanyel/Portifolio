@@ -13,4 +13,4 @@ Ferramentas utilizadas para criação:<br/>
 >Apollo <br/>
 
 
-<a href="https://www.figma.com/community/file/1134637571456376160" target="_blank">Figma</a>
+<a href="https://www.figma.com/community/file/1134637571456376160" target="blank">Figma</a>
